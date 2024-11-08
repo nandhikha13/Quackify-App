@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329169418125",
+    "project_id": "quacksign",
+    "storage_bucket": "quacksign.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329169418125:android:2020701fdb818c6ac1afc4",
+        "android_client_info": {
+          "package_name": "com.example.quackify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtyWZZcMmrCI9VhCwMMafgKxZGB1Chq_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
